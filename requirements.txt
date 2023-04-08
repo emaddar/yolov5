@@ -5,3 +5,12 @@ mediapipe==0.8.9.1
 torch
 psutil
 torchvision
+yaml
+
+
+
+PyYAML
+requests
+scipy
+tqdm
+seaborn
